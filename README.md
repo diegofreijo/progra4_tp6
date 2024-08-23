@@ -42,6 +42,8 @@ No hay oral 😀
 
 ## Grupos
 
+Mantuve el Integrante 1 del TP3 y el otro fue pseudo aleatorio para que no se repitan parejas.
+
 | Aplicación | Integrante 1 | Integrante 2 |
 |---|---|---|
 |App1|Freijo, Diego|Olguin, Manuel|
@@ -57,10 +59,12 @@ No hay oral 😀
 
 Hoy se terminan de convertir en ✨ `Full-Stack Developers` ✨. Para ello van a hacer un deploy del stack que les toco en AWS usando Docker.
 
-Las tareas serían:
+El objetivo es simple: tienen que deployar la App que les toco, completa, en docker.
+
+### Lista aproximada de cosas que deberían hacer para lograr el TP
 
 - Crear una Imagen para cada servicio (frontend y backend)
-- Crear un Compose que junte ambos servicios
+- Crear un Docker Compose que junte ambos servicios
 - Instalar Docker en la instancia de EC2 que tienen de AWS
 	- No hace falta que usen AWS si quieren usar otro proovedor. Pero ya lo tienen corriendo y configurado, y es gratis 🤷‍♂️
 	- https://docs.docker.com/engine/install/ubuntu/
