@@ -4,7 +4,7 @@
 | ---------------------- | ------------------------------- |
 | Integrantes por grupo: | 2                               |
 | Se aprueba con         | 6                               |
-| Fecha de entrega       | Miércoles 05 de septiembre, 23:59 hs |
+| Fecha de entrega       | Miércoles 04 de septiembre, 23:59 hs |
 | Fecha de re-entrega    | Miércoles 11 de septiembre, 23:59 hs |
 
 ## Metodología
